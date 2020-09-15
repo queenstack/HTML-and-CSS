@@ -1,0 +1,75 @@
+@media screen and (max-width:768px){body{
+    background-color: hsl(0, 0%, 96%);
+      Family: [Karla](https://fonts.google.com/specimen/Karla)
+      background-image:url('')
+      padding:50px;
+
+}}
+    
+    body{
+        background-color: hsl(0, 0%, 96%);
+          Family: [Karla](https://fonts.google.com/specimen/Karla)
+          background-image:url('')
+          padding:50px;
+    
+    }
+    
+#work{
+    weight:100%
+    height:auto;
+    margin:100px;
+    padding-left:150px;
+    padding-right:350px;
+    background-image: url('../single-price-grid-component-master/images/favicon-32x32.png');
+    background-repeat: no-repeat;
+    
+}
+.container1{
+    background-color:white;
+    margin:0;
+    padding:20px;
+}
+.class1{
+    color:rgb(55, 184, 235);
+}
+.class2{
+    color:hsl(71, 73%, 54%);
+}
+.class3{
+    color:gray;
+}
+
+#boxes{
+    background-color: rgb(110, 205, 243);
+    color:white;
+    display:flex;
+    text-align:justify;
+    margin:0;
+    padding:0;
+
+}
+#boxes .box{
+    background-color:rgb(55, 184, 235);
+    padding:20px;
+}
+button{
+    background-color: hsl(71, 73%, 54%);
+    color:white;
+    width:70%;
+    height:20%;
+    padding:0;
+    border:20px;
+    margin:0;  
+    
+}
+#boxes .box1{
+    padding:20px;
+    border-left:20px;
+    line-height: 1em;
+    word-spacing: 0.5em;}
+    
+.attribution{
+    float:right;
+
+}
+ 
